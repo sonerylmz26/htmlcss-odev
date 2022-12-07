@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+
+body{
+    text-align: center;
+background-image:url(https://cdn.pixabay.com/photo/2022/11/24/02/28/clouds-7613361_960_720.png);
+
+}
+
+
+ form ,.class{
+text-align: center;
+margin: 200px 200px;
+padding: 10px;
+border-radius: 15px;
+background-image: background-color: #D9AFD9;
+background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+width:fit-content;
+
+}
+
+label,input{
+padding: 10px;
+    margin: 5px;
+text-align: center;
+}
+label{
+
+font-size: large;
+text-align: center;
+width: 170px;
+height: 30px;
+}
+
+input{
+border-radius: 10px;
+text-align: center;
+}
+
+#login{
+background-color: rgb(229, 176, 138);
+
+}
+
+#reset{
+    background-color: rgb(229, 176, 138);
+}
+
+#login:hover {
+cursor: pointer;
+color: antiquewhite;
+background-color: rgb(44, 20, 5);
+}
+
+#reset:hover {
+cursor: pointer;
+color: antiquewhite;
+background-color: rgb(44, 20, 5);
+}
+
+
